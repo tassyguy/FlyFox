@@ -1,8 +1,6 @@
 @import url('theme/dark-transparent.css');
 @import url('custom.css');
 @import url('tabs.css');
-/*@import url('colorize.css');
-@import url('minimal.css');*/
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 /* Contextual toolbar buttons, only show on hover, this is what matters, the rest of the file are just style tweaks I like
  */
